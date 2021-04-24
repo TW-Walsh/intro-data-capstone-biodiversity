@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "IoTurity",
+    "owner": "Tom Walsh",
+    "description": "IoTurity Threat Model containing a smart door, MQTT broker and second integrated device."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
